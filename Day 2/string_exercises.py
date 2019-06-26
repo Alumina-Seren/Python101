@@ -12,8 +12,12 @@ print(f'Witaj{imie}{nazwisko}')
 
 print('Witaj' + imie + nazwisko)
 
-print('Witaj' + 'Magdalena' + 'K')
+print('Witaj' + ' Magdalena' + ' K')
 
 # komentarz
+
+# dodałam komentarz
+
+
 
 
